@@ -1,0 +1,8 @@
+Date: 01-10-2024 15:01:03
+Exception: An employee with the name 'Raj15' already exists.
+Stack Trace:    at ExceptionHandlingDemo.Controllers.EmployeeController.Create(Employee employee) in C:\Users\Admin\source\repos\ExceptionHandlingDemo\ExceptionHandlingDemo\Controllers\EmployeeController.cs:line 44
+-----------------------------------
+Date: 01-10-2024 15:04:39
+Exception: An employee with the name 'Raj15' already exists.
+Stack Trace:    at ExceptionHandlingDemo.Controllers.EmployeeController.Create(Employee employee) in C:\Users\Admin\source\repos\ExceptionHandlingDemo\ExceptionHandlingDemo\Controllers\EmployeeController.cs:line 44
+-----------------------------------
