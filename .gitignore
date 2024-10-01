@@ -1,0 +1,21 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/.vs/ExceptionHandlingDemo
+/.vs/ExceptionHandlingDemo/DesignTimeBuild
+/.vs/ExceptionHandlingDemo/DesignTimeBuild/.dtbcache.v2
+/.vs/ExceptionHandlingDemo/FileContentIndex
+/.vs/ExceptionHandlingDemo/FileContentIndex/1c7a444e-76d5-4039-9a98-2aac01a8d25a.vsidx
+/.vs/ExceptionHandlingDemo/FileContentIndex/544b034d-0588-45da-8ad0-b5c915200b7b.vsidx
+/.vs/ExceptionHandlingDemo/FileContentIndex/7c108e6e-f8c7-4d3d-873d-b00eda80dacb.vsidx
+/.vs/ExceptionHandlingDemo/FileContentIndex/dad566d6-5bde-41c5-b74d-1df2cc53fc74.vsidx
+/.vs/ExceptionHandlingDemo/FileContentIndex/e835b349-6baf-4d91-a2b8-d917543c12ba.vsidx
+/.vs/ExceptionHandlingDemo/v17
+/.vs/ExceptionHandlingDemo/v17/.futdcache.v2
+/.vs/ExceptionHandlingDemo/v17/.suo
+/.vs/ExceptionHandlingDemo/v17/DocumentLayout.json
+/.vs/ProjectEvaluation
+/.vs/ProjectEvaluation/exceptionhandlingdemo.metadata.v7.bin
+/.vs/ProjectEvaluation/exceptionhandlingdemo.projects.v7.bin
