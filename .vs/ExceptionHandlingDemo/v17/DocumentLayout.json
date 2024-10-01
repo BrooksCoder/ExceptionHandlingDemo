@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "ExceptionHandlingDemo\\.gitignore",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\ExceptionHandlingDemo\\ExceptionHandlingDemo\\.gitignore",
               "RelativeToolTip": "ExceptionHandlingDemo\\.gitignore",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-10-01T10:41:39.873Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "ExceptionHandlingDemo\\Middlewares\\ExceptionHandlingMiddleware.cs",
               "ViewState": "AQIAABoAAAAAAAAAAAAQwCoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T10:31:25.704Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T10:31:25.704Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "ExceptionHandlingDemo\\Controllers\\EmployeeController.cs",
               "ViewState": "AQIAAB8AAAAAAAAAAAAqwCkAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T09:36:57.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T09:36:57.011Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "ExceptionHandlingDemo\\Program.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAgwBsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T06:45:02.902Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T06:45:02.902Z"
             },
             {
               "$type": "Document",
