@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\ExceptionHandlingDemo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DA10133A-C791-44C1-B8C2-10A2CBBF5124}|ExceptionHandlingDemo\\ExceptionHandlingDemo.csproj|c:\\users\\admin\\source\\repos\\exceptionhandlingdemo\\exceptionhandlingdemo\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{DA10133A-C791-44C1-B8C2-10A2CBBF5124}|ExceptionHandlingDemo\\ExceptionHandlingDemo.csproj|solutionrelative:exceptionhandlingdemo\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA10133A-C791-44C1-B8C2-10A2CBBF5124}|ExceptionHandlingDemo\\ExceptionHandlingDemo.csproj|c:\\users\\admin\\source\\repos\\exceptionhandlingdemo\\exceptionhandlingdemo\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA10133A-C791-44C1-B8C2-10A2CBBF5124}|ExceptionHandlingDemo\\ExceptionHandlingDemo.csproj|solutionrelative:exceptionhandlingdemo\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DA10133A-C791-44C1-B8C2-10A2CBBF5124}|ExceptionHandlingDemo\\ExceptionHandlingDemo.csproj|c:\\users\\admin\\source\\repos\\exceptionhandlingdemo\\exceptionhandlingdemo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA10133A-C791-44C1-B8C2-10A2CBBF5124}|ExceptionHandlingDemo\\ExceptionHandlingDemo.csproj|solutionrelative:exceptionhandlingdemo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA10133A-C791-44C1-B8C2-10A2CBBF5124}|ExceptionHandlingDemo\\ExceptionHandlingDemo.csproj|c:\\users\\admin\\source\\repos\\exceptionhandlingdemo\\exceptionhandlingdemo\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA10133A-C791-44C1-B8C2-10A2CBBF5124}|ExceptionHandlingDemo\\ExceptionHandlingDemo.csproj|solutionrelative:exceptionhandlingdemo\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DA10133A-C791-44C1-B8C2-10A2CBBF5124}|ExceptionHandlingDemo\\ExceptionHandlingDemo.csproj|c:\\users\\admin\\source\\repos\\exceptionhandlingdemo\\exceptionhandlingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA10133A-C791-44C1-B8C2-10A2CBBF5124}|ExceptionHandlingDemo\\ExceptionHandlingDemo.csproj|solutionrelative:exceptionhandlingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA10133A-C791-44C1-B8C2-10A2CBBF5124}|ExceptionHandlingDemo\\ExceptionHandlingDemo.csproj|c:\\users\\admin\\source\\repos\\exceptionhandlingdemo\\exceptionhandlingdemo\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA10133A-C791-44C1-B8C2-10A2CBBF5124}|ExceptionHandlingDemo\\ExceptionHandlingDemo.csproj|solutionrelative:exceptionhandlingdemo\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,32 +35,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ExceptionHandlingDemo\\ExceptionHandlingDemo\\.gitignore",
+              "RelativeDocumentMoniker": "ExceptionHandlingDemo\\.gitignore",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ExceptionHandlingDemo\\ExceptionHandlingDemo\\.gitignore",
+              "RelativeToolTip": "ExceptionHandlingDemo\\.gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-01T10:41:39.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ExceptionHandlingDemo\\ExceptionHandlingDemo\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "ExceptionHandlingDemo\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ExceptionHandlingDemo\\ExceptionHandlingDemo\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "ExceptionHandlingDemo\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAQwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:31:25.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ExceptionHandlingDemo\\ExceptionHandlingDemo\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "ExceptionHandlingDemo\\Controllers\\EmployeeController.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\ExceptionHandlingDemo\\ExceptionHandlingDemo\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "ExceptionHandlingDemo\\Controllers\\EmployeeController.cs",
-              "ViewState": "AQIAAEgAAAAAAAAAAAAowFMAAAAAAAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAqwCkAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T09:36:57.011Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ExceptionHandlingDemo\\ExceptionHandlingDemo\\Program.cs",
               "RelativeDocumentMoniker": "ExceptionHandlingDemo\\Program.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\ExceptionHandlingDemo\\ExceptionHandlingDemo\\Program.cs",
               "RelativeToolTip": "ExceptionHandlingDemo\\Program.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAgwBoAAAAAAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAgwBsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T06:45:02.902Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Logger.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ExceptionHandlingDemo\\ExceptionHandlingDemo\\Logger.cs",
               "RelativeDocumentMoniker": "ExceptionHandlingDemo\\Logger.cs",
@@ -60,8 +94,7 @@
               "RelativeToolTip": "ExceptionHandlingDemo\\Logger.cs",
               "ViewState": "AQIAACkAAAAAAAAAAAAgwAcAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T07:06:47.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T07:06:47.475Z"
             }
           ]
         }

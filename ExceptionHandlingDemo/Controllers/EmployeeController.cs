@@ -33,34 +33,23 @@ namespace ExceptionHandlingDemo.Controllers
         [HttpPost]
         public IActionResult Create(Employee employee)
         {
-            try
+            // Check if an employee with the same name already exists
+            var existingEmployee = _context.Employees.FirstOrDefault(e => e.Name == employee.Name);
+
+            if (existingEmployee != null)
             {
-                // Check if an employee with the same name already exists
-                var existingEmployee = _context.Employees.FirstOrDefault(e => e.Name == employee.Name);
-
-                if (existingEmployee != null)
-                {
-                    // Throw an exception if an employee with the same name exists
-                    throw new Exception($"An employee with the name '{employee.Name}' already exists.");
-                }
-
-                if (ModelState.IsValid)
-                {
-                    _context.Employees.Add(employee);
-                    _context.SaveChanges();
-                    return RedirectToAction("Index");
-                }
-
-                return View(employee);
+                // If an employee with the same name exists, throw an exception
+                throw new Exception($"An employee with the name '{employee.Name}' already exists.");
             }
-            catch (Exception ex)
+
+            if (ModelState.IsValid)
             {
-                // Log the exception
-                _logger.LogException(ex); // Log the duplicate employee exception
-
-                // Return error view
-                return View("Error");
+                _context.Employees.Add(employee);
+                _context.SaveChanges();
+                return RedirectToAction("Index");
             }
+
+            return View(employee);
         }
 
 
