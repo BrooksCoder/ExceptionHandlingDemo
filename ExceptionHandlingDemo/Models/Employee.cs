@@ -8,6 +8,7 @@ namespace ExceptionHandlingDemo.Models
 
         [Required]
         public string Name { get; set; }
+        [Required]
         public string JobDescription { get; set; }
         public string Number { get; set; }
         public string Department { get; set; }
